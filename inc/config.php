@@ -12,7 +12,6 @@
 
 		die("connection Failed : " .$conn -> connect_error);
 
-
 	}	
 
 	else
