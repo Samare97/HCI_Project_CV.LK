@@ -14,6 +14,9 @@
       <li class="nav-item">
         <a class="nav-link" href="#">ALL Vacancies</a>
       </li>
+      <li class="nav-item">
+        <a class="nav-link" href="#">Post your vacancy</a>
+      </li>
 
       <li class="nav-item">
         <a class="nav-link" href="#">Contact Us</a>
