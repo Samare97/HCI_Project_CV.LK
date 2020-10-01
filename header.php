@@ -87,7 +87,7 @@
     <a href="All_vacancy.php">All Vacancy</a>
     <a href="#">Foreign Vacancy</a>
     <a href="vacancy_post.php">Post Vacancy</a>
-    <a href="#">Contact Us</a>
+    <a href="contact_us.php">Contact Us</a>
 </div>
   </div> 
 
