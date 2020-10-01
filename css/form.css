@@ -5,25 +5,20 @@
 }
 
 .card {
-    left: 20%;
-    width: 60%;
+    left: 25%;
+    width: 50%;
     margin: 20px;
     background-color: #f0f0f0;
+}
+
+#col_1{
+    left: 28%;
+    margin: 30px;
+    background-color: #f7f7f7;
 }
 
 .card-img-top{
     width: 120px;
     height: 45px;
 }
-
-.card-img-top_1{
-    width: auto;
-    height: 600px;
-}
-
-#card_1{
-    margin: 20px;
-    padding: 20px;
-}
-
 
