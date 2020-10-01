@@ -1,0 +1,29 @@
+body{
+    color: black;
+}
+.container-fluid {
+    margin-top: 10px;
+    margin-bottom: 10px;
+    color: black;
+}
+
+.card {
+    left: 25%;
+    width: 50%;
+    margin: 20px;
+    background-color: #f0f0f0;
+    color: black;
+}
+
+#col_1{
+    left: 28%;
+    margin: 30px;
+    background-color: #f7f7f7;
+    color: black;
+}
+
+.card-img-top{
+    width: 120px;
+    height: 45px;
+}
+
