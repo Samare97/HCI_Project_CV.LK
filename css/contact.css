@@ -1,0 +1,30 @@
+.container-fluid {
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+#card1{
+    margin-top: 30px;
+    width: 30%;
+    left: 12cm;
+    border-color: rgba(0, 0, 0, 0.582);
+    padding: 0.9%;
+    border-radius: 5%;
+    background-color: #ecececc4;
+}
+
+#card2{
+    margin-top: 30px;
+    width: 30%;
+    left: 12cm;
+    border-radius: 06%;
+    border-color: rgba(0, 0, 0, 0.582);
+    border-style: double;
+    border-width: 10px;
+    background-color: #ecececc9;
+}
+
+.card-title{
+    color: blue;
+    font-size: 30px;
+}
